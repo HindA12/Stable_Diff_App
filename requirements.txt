@@ -1,0 +1,14 @@
+diffusers==0.16.1
+transformers==2.1.0
+accerelate==0.19.0
+ftfy==6.1.1
+gradio==3.32.0
+argparse==1.4.0
+itertools==9.1.0
+random==1.0.1
+os==2.1.4
+numpy==1.24.3
+PIL==9.5.0
+torch==2.0.1
+torchvsion==0.2.0
+tqdm==4.65.0
