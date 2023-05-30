@@ -1,1 +1,3 @@
-# Stable_Diff_App
+# Stable Diffusion App
+
+In this project, our approach involves fine-tuning a pre-trained stable diffusion model using a carefully curated dataset consisting of photographs showcasing Moroccan traditional living rooms. The primary objective of this project is to leverage the model's capabilities to generate innovative concepts and designs for living rooms, all guided by a given text prompt. Within this prompt, we have the freedom to specify desired attributes such as colors, accessories, and the overall aesthetic to be incorporated into our envisioned living room. By utilizing the power of the stable diffusion model, we aim to inspire and explore new ideas for creating unique and visually appealing living spaces.
